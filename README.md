@@ -31,7 +31,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
@@ -45,8 +44,18 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> </a>
+  
+  <!-- Additional technologies -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <!-- Add other technologies as needed -->
-  <!-- <a href="https://example.com" target="_blank" rel="noreferrer"> <img src="https://example.com/path/to/your-icon.svg" alt="Example Technology" width="40" height="40"/> </a>-->
+
 </p>
 
-
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <img src="https://example.com/path/to/emc-xpression-design-icon.svg" alt="EMC Xpression Design" width="40" height="40"/>
+  <img src="https://example.com/path/to/guidewire-policycenter-icon.svg" alt="Guidewire - PolicyCenter" width="40" height="40"/>
+  <img src="https://example.com/path/to/billingcenter-icon.svg" alt="BillingCenter" width="40" height="40"/>
+  <!-- Add other tools as needed -->
+</p>
