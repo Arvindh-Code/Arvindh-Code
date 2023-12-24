@@ -50,7 +50,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <img src="json-18-695417.webp" alt="XML" width="40" height="40"/>
-  <img src="xml-icon-896x1024-cd50izvw.png" alt="JSON" width="30" height="40"/>
+  <img src="xml-icon-896x1024-cd50izvw.png" alt="JSON" width="30" height="30"/>
  
   
 
