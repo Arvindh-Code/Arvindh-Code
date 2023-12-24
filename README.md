@@ -21,9 +21,6 @@
 
 - 🎓 Education-wise, I hold a B.Tech in Computer Science and Engineering from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology, Chennai, maintaining a CGPA of 8.27. Currently, I'm maintaining a strong GPA of 3.80 in my M.S. program.
 
-- 🌐 Let's connect! Find me on LinkedIn [here](https://www.linkedin.com/in/aravindh-gopalsamy-28938b169).
-
-- ⚡ Happy coding! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
