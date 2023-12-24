@@ -49,8 +49,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
+  <img src="xml.png" alt="XML" width="40" height="40"/>
+  <img src="download.png" alt="JSON" width="40" height="40"/>
  
   
 
@@ -58,8 +58,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://example.com/path/to/emc-xpression-design-icon.svg" alt="EMC Xpression Design" width="40" height="40"/>
-  <img src="https://example.com/path/to/guidewire-policycenter-icon.svg" alt="Guidewire - PolicyCenter" width="40" height="40"/>
-  <img src="https://example.com/path/to/billingcenter-icon.svg" alt="BillingCenter" width="40" height="40"/>
-  <!-- Add other tools as needed -->
+  <img src="images.png" alt="EMC Xpression Design" width="40" height="40"/>
+  <img src="download (1).png" alt="Guidewire - PolicyCenter" width="40" height="40"/>
 </p>
